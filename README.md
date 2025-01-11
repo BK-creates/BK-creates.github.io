@@ -101,15 +101,15 @@
                     </div>
                     <div class="card">
                         <h3>Backend Development</h3>
-                        <p>Building and optimizing server-side architecture, APIs, and databases to ensure seamless and scalable application performance.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                     </div>
                     <div class="card">
-                        <h3>Cloud/DevOps</h3>
-                        <p>Managing cloud infrastructure, automation, and deployment pipelines to ensure reliability and scalability.</p>
+                        <h3>Thinking</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                     </div>
                     <div class="card">
-                        <h3>Mobile Apps</h3>
-                        <p>Developing cross-platform mobile applications using React Native for seamless user experiences across iOS and Android.</p>
+                        <h3>Thinling</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                     </div>
                 </div>
             </div>
